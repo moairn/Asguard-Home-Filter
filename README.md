@@ -1,0 +1,1 @@
+将Mawenjian China CDN Whitelist转为AdGuard Home可以读取的白名单格式
